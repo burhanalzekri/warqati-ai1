@@ -31,6 +31,6 @@ dependencies {
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.4")
     implementation("androidx.documentfile:documentfile:1.1.0")
-    implementation("com.github.adaptech-cz:Tesseract4Android:4.9.0")
+    implementation("cz.adaptech.tesseract4android:tesseract4android:4.9.0")
     debugImplementation("androidx.compose.ui:ui-tooling")
 }
