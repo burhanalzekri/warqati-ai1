@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.warqati.ai"
-    compileSdk = 35
+    compileSdk = 36
     defaultConfig {
         applicationId = "com.warqati.ai"
         minSdk = 24
